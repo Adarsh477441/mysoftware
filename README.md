@@ -1,2 +1,3 @@
 # mysoftware
-it's simple . this is cool
+this is my first git repository.
+Author - Adarsh sharma
